@@ -1,0 +1,24 @@
+{
+  "name": "vicugna-types",
+  "version": "1.0.0",
+  "description": "Common types across the vicugna app.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamdevdaniel/vicugna-types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamdevdaniel/vicugna-types/issues"
+  },
+  "homepage": "https://github.com/iamdevdaniel/vicugna-types#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
