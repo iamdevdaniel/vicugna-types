@@ -1,4 +1,4 @@
-type Form10Entry = {
+export type Form10Entry = {
     sex: 'Macho' | 'Hembra',
     age: 'Cría' | 'Juvenil' | 'Adulto',
     weight: string,
@@ -13,7 +13,7 @@ type Form10Entry = {
     observations: string,
 }
 
-type Form10Header = {
+export type Form10Header = {
     department: string,
     regional: string,
     community: string,
