@@ -1,4 +1,6 @@
 export type Form10Header = {
+    id?: number,
+    creationDate?: string,
     department: string,
     regional: string,
     community: string,
